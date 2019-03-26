@@ -26,7 +26,7 @@ Jordan gave a few tips about getting things done at DoD — generally that it’
 
 Generally, DoD has a rich history of open source, including perhaps most notably [SELinux](https://en.wikipedia.org/wiki/Security-Enhanced_Linux) out of the National Security Agency.
 
-While discussing Lawrence Livermore National Laboratory’s open source policy, Jordan mentioned that DoE has a leg up on open source, because they have both support from above and a critical mass of examples of software that has been open sourced under DoE’s name.
+While discussing [Lawrence Livermore National Laboratory’s open source policy](https://software.llnl.gov/about/licenses/), Jordan mentioned that DoE has a leg up on open source, because they have both support from above and a critical mass of examples of software that has been open sourced under DoE’s name.
 
 ## Complementary efforts
 
