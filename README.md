@@ -4,7 +4,7 @@ Outcomes of this project:
 
 1. Independent evaluation of ARL’s current open source policies and practices
 2. Generate a set of open source software standards and recommendations
-3. Create a roadmap of opportunities and recommnedations on how to take action
+3. Create a roadmap of opportunities and recommendations on how to take action
 
 If this project is successful, it will:
 
