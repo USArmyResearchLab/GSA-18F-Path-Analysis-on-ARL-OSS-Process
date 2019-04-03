@@ -12,6 +12,8 @@ If this project is successful, it will:
 - Reflect a diverse set of viewpoints
 - Resonate as useful to others in the federal government that want to open source software
 
+For information about the project itself, consult the [project masterdoc](/PROJECT.md).
+
 ## Contributing 
 
 This repository contains our notes, files, and artifacts, and is public by design — feel free to chime in or submit a pull request! See our [contributing guide](/CONTRIBUTING.md).
