@@ -1,0 +1,11 @@
+| Acronym | Expanded | Definition | 
+|---------|----------|------------|
+| TRL | Technology Readiness Level | A method of estimating technology maturity of Critical Technology Elements (CTE) of a program during the acquisition process. They are determined during a Technology Readiness Assessment (TRA) that examines program concepts, technology requirements, and demonstrated technology capabilities. TRL are based on a scale from 1 to 9 with 9 being the most mature technology. [Wikipedia](https://en.wikipedia.org/wiki/Technology_readiness_level)
+| CTE | Critical Technology Elements | A new or novel technology that a platform or system depends on to achieve successful development or production or to successfully meet a system operational threshold requirement. Technology Readiness Levels (TRL) are a method of estimating technology maturity of CTE of a program during the Acquisition Process. They are determine during a Technology Readiness Assessment (TRA) that examines program concepts, technology requirements, and demonstrated technology capabilities. [AcqNotes](http://acqnotes.com/acqnote/tasks/critical-technology-element)
+| TRA	| Technology Readiness Assessment | A Technology Readiness Assessment (TRA) is a formal, metrics based process and accompanying report that assesses the maturity of critical hardware and software technologies called Critical Technology Elements (CTE) to be used in systems. [AcqNotes](http://acqnotes.com/acqnote/acquisitions/technology-readiness-assessment)
+| TOR | Term of Reference | How the working group, task force, etc. will operate including what the group is trying to achieve, roles and responsibilities, deliverables (if any), operating procedure, etc.  
+| CISD | Computational and Information Science Directorate | One of the directorates (areas of research) for ARL
+| ONR | Office of Naval Research | 
+| NREL | National Renewable Energy Lab | 
+| CRADA | Cooperative Research and Development Agreement | An agreement between a Government agency and a private company or university to work together on research and development.
+| CLA | Contributor License Agreement | A legally binding contract that a contributor signs that describes the rights being transferred with the work that a contributor is giving.
