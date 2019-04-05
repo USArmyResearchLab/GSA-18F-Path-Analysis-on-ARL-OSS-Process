@@ -67,6 +67,7 @@ Send a calendar invite with attatched Google Meet dial-in number.
 | Recommendation Generation | 4/15 - 4/19
 
 | Round | Profiles | Methods |
+|-------|----------|---------|
 | Round 1 | ARL Researcher (civilian, contractor)<br>ARL Supervisor<br>ARL Security<br>ARL Invention Evaluation Committee<br>ARL IP/Legal<br>AFC | Interviews with think-aloud method, minimal sharing of screenshots and associated emails as needed
 | Round 2 | ARL Business Acumen<br>ARL OSS Policy administrator<br>ARL CIO<br>ARL CIO-OSS<br>ARL CISD Leadership<br>DoD CIO | Interviews with think-aloud method, minimal sharing of screenshots and associated emails as needed
 
