@@ -1,0 +1,95 @@
+# Army ARL PA Research Plan
+
+## Objectives
+
+Learn about OSS at ARL: goals, values, motivations, key players, constraints, training/support resources. Also, learn about current policy, practice, roles, opportunities and challenges.
+
+## Method(s)
+
+1. Interviews
+2. Observation
+3. Shadowing
+4. Secondary research
+
+## Key Assumptions to Test
+
+- If open source sharing was more transparent and efficient, will it increase level of sharing?
+
+## Stakeholder Map
+
+[Available in /Deliverables](/Deliverables/ARL%20Stakeholder%20Map%20March%2029.pdf).
+
+## Interview Recruiting
+
+### Stakeholder Profiles
+
+- Researcher
+- Supervisor
+- Security
+- OPSEC
+- Invention Evaluation Committee
+- IP/Legal
+- OSS policy administrator
+- Public Affairs
+- DoD CIO
+
+### Recruiting Messages
+
+#### Introduction
+
+> Subject: Request for interview
+>
+> Hi there! My name's [x]. I'm a [x] at 18F/GSA working with ARL on the Open Source Software path analysis team to better understand how ARL can efficiently and transparently share open source software within legal requirements. This project is an 8 week engagement.
+>
+> We’re hoping to learn about ARL’s open source software needs from all the key players involved, and we’d like to learn your perspective. Given the fast pace of this project, we’ve got about 2 weeks to learn all we can. Right now we’re scheduling [in person, on a call, video] [interview, demo, shadow] for next week at these times:
+>
+> - List of times
+>
+> We’re hoping to meet with you, discuss [x], and take notes so we can incorporate what we learn in our eventual recommendations to ARL. Would you be interested in meeting us?
+>
+> Thank you,
+> - [x]
+
+### Calendar invite
+
+Send a calendar invite with attatched Google Meet dial-in number.
+
+## Timeline
+
+| Phase | Dates |
+|-------|-------|
+| Background research & Recruiting | 3/20 - 4/3
+| Round 1 interviews | 3/27 - 4/5
+| Initial findings | 4/8 - 4/10
+| Mid-project check-in | 4/11
+| Round 2 interviews and Desk Research | 4/8 - 4/12
+| Synthesis | 4/8 - 4/19
+| Recommendation Generation | 4/15 - 4/19
+
+| Round | Profiles | Methods |
+| Round 1 | ARL Researcher (civilian, contractor)<br>ARL Supervisor<br>ARL Security<br>ARL Invention Evaluation Committee<br>ARL IP/Legal<br>AFC | Interviews with think-aloud method, minimal sharing of screenshots and associated emails as needed
+| Round 2 | ARL Business Acumen<br>ARL OSS Policy administrator<br>ARL CIO<br>ARL CIO-OSS<br>ARL CISD Leadership<br>DoD CIO | Interviews with think-aloud method, minimal sharing of screenshots and associated emails as needed
+
+## Expected outcome(s)
+
+We’ll collect on-the-record feedback (shared on a need-to-know basis) from Open Source Software leads and users and conduct collaborative synthesis, increasing our team’s shared understanding.
+
+## Desk research
+
+We will review a variety of secondary research: policy documents to understand the stated objectives, policies, and steps influencing ARL’s OSS needs and current process.
+
+## Interview Guides
+
+Approach that may make it easier for participants to focus on their perceptions of open source sharing needs independent of current solution: focus on needs & goals first, and then ask about current process.
+
+- Researcher
+- OSS Leads
+- Leadership
+
+## Participant agreement
+
+See the [Participant agreement](/Research/Participant%20agreement.md). (This is not required for interviews we conduct with government employees.)
+
+## Data disposal
+
+All **study data** collected during this research will be discarded after our collaborative synthesis exercise and/or persona creation, whichever is latest.

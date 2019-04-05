@@ -27,7 +27,7 @@
   - Partner: Jin Kwon
   - Stakeholders: OSS Task Force
   - Project sponsor: Cindy Bedell and Chris Oliver
-  
+
 ### Collaboration tools
 
 - Project tasks - [Trello](https://trello.com/b/MU2Dlyz6/us-army-arl-path-analysis)
@@ -62,15 +62,15 @@
 - Meeting notetakers toss any actionable tasks from the meeting discussion into Trello.
 
 #### Research
-- See the [research plan](research/plan.md).
-- Research work is broken up into defined "sprints." Before we start a sprint, we set a research goal for that sprint and decide on the methods we will use (eg, if interviews, we decide how many subjects we need to talk to, with what characteristics, and adjust our discussion guide according to the research goal). 
+- See the [research plan](Research/Plan.md).
+- Research work is broken up into defined "sprints." Before we start a sprint, we set a research goal for that sprint and decide on the methods we will use (eg, if interviews, we decide how many subjects we need to talk to, with what characteristics, and adjust our discussion guide according to the research goal).
 - At the end of a research sprint, we come together to analyze what we found more thoroughly than we do in our daily debriefs, to analyze what we heard, make deeper connections, check in on whether our hypotheses were confirmed or disproved, and capture any decisions we make about how our findings shape the outputs we are working towards, and how we structure our next sprint to help drive us towards those outputs.
 
 ##### Interviews
 - One person interviews, one person takes notes.
 - Notify the participant that the note-taker will be taking notes.
 - Interview starts with introduction. Notes should be as verbatim as possible.
-- Folks should not lead interviews with participants that they have a close relationship with. 
+- Folks should not lead interviews with participants that they have a close relationship with.
 - Drop signed consent form in XXX
 - Within 24 hours of interview:
   - Lead interviewer should go through notes and make sure any extra thoughts they jotted down get captured in there as well
