@@ -9,17 +9,17 @@ Learn about OSS at ARL: goals, values, motivations, key players, constraints, tr
 1. Interviews
 2. Secondary research
 
-## Key Assumptions to Test
+## Key assumptions to test
 
 - If open source sharing was more transparent and efficient, will it increase level of sharing?
 
-## Stakeholder Map
+## Stakeholder map
 
 [Available in /Deliverables](/Deliverables/ARL%20Stakeholder%20Map%20March%2029.pdf).
 
-## Interview Recruiting
+## Interview recruiting
 
-### Potential Stakeholder Profiles
+### Potential stakeholder profiles
 
 - Researcher
 - Supervisor
@@ -30,7 +30,7 @@ Learn about OSS at ARL: goals, values, motivations, key players, constraints, tr
 - Public affairs
 - DoD CIO
 
-### Recruiting Messages
+### Recruiting messages
 
 #### Introduction
 
@@ -79,7 +79,7 @@ We will review a variety of secondary research, which may include:
 - Documents relating to ARL’s Form 1 process
 
 
-## Interview Guides
+## Interview guides
 
 Approach that may make it easier for participants to focus on their perceptions of open source sharing needs independent of current solution: focus on needs & goals first, and then ask about current process.
 
