@@ -7,9 +7,7 @@ Learn about OSS at ARL: goals, values, motivations, key players, constraints, tr
 ## Method(s)
 
 1. Interviews
-2. Observation
-3. Shadowing
-4. Secondary research
+2. Secondary research
 
 ## Key Assumptions to Test
 
@@ -21,16 +19,15 @@ Learn about OSS at ARL: goals, values, motivations, key players, constraints, tr
 
 ## Interview Recruiting
 
-### Stakeholder Profiles
+### Potential Stakeholder Profiles
 
 - Researcher
 - Supervisor
-- Security
-- OPSEC
+- Security-OPSEC
 - Invention Evaluation Committee
 - IP/Legal
 - OSS policy administrator
-- Public Affairs
+- Public affairs
 - DoD CIO
 
 ### Recruiting Messages
@@ -50,34 +47,37 @@ Learn about OSS at ARL: goals, values, motivations, key players, constraints, tr
 > Thank you,
 > - [x]
 
-### Calendar invite
-
-Send a calendar invite with attatched Google Meet dial-in number.
-
 ## Timeline
 
 | Phase | Dates |
 |-------|-------|
-| Background research & Recruiting | 3/20 - 4/3
+| Background research & recruiting | 3/20 - 4/3
 | Round 1 interviews | 3/27 - 4/5
 | Initial findings | 4/8 - 4/10
 | Mid-project check-in | 4/11
-| Round 2 interviews and Desk Research | 4/8 - 4/12
+| Round 2 interviews and desk research | 4/8 - 4/12
 | Synthesis | 4/8 - 4/19
-| Recommendation Generation | 4/15 - 4/19
+| Recommendation generation | 4/15 - 4/19
 
 | Round | Profiles | Methods |
 |-------|----------|---------|
 | Round 1 | ARL Researcher (civilian, contractor)<br>ARL Supervisor<br>ARL Security<br>ARL Invention Evaluation Committee<br>ARL IP/Legal<br>AFC | Interviews with think-aloud method, minimal sharing of screenshots and associated emails as needed
-| Round 2 | ARL Business Acumen<br>ARL OSS Policy administrator<br>ARL CIO<br>ARL CIO-OSS<br>ARL CISD Leadership<br>DoD CIO | Interviews with think-aloud method, minimal sharing of screenshots and associated emails as needed
+| Round 2 | ARL Business Acumen<br>ARL OSS Policy administrator<br>ARL CIO<br>ARL CIO/OSS<br>ARL CISD Leadership<br>DoD CIO | Interviews with think-aloud method, minimal sharing of screenshots and associated emails as needed
 
 ## Expected outcome(s)
 
-We’ll collect on-the-record feedback (shared on a need-to-know basis) from Open Source Software leads and users and conduct collaborative synthesis, increasing our team’s shared understanding.
+We’ll collect on-the-record feedback (shared on a need-to-know basis) from Open Source Software leads and users and conduct collaborative synthesis, increasing our team’s shared understanding. 
 
 ## Desk research
 
-We will review a variety of secondary research: policy documents to understand the stated objectives, policies, and steps influencing ARL’s OSS needs and current process.
+We will review a variety of secondary research, which may include:
+
+- Policy documents influencing ARL’s OSS needs and current process
+- Process guidance material used by ARL users
+- Process guidance material used by OSS leads
+- Similar OSS policies in similar environments (government groups with mixed government/contractor employees)
+- Documents relating to ARL’s Form 1 process
+
 
 ## Interview Guides
 
