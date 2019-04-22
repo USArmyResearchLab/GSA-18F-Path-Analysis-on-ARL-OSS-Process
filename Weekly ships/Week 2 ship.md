@@ -21,7 +21,7 @@ Based on our initial meetings, we feel that by narrowing the focus of the projec
 - Socialized as a team in person to get to know each other better
 - Conducted introductory meetings with Task Force members and researchers to (1) get feedback on project scope, goals, and success measures, (2) validate our understandings so far, and (3) to identify potential participants 
 - Debriefed after onsite meetings and incorporated learnings into research plan, stakeholder diagram, and problem statement
-- Created a diagram of identified stakeholders [(see attached)](/Deliverables/ARL%20Stakeholder%20Map%20March%2029.pdf)
+- Created a diagram of identified stakeholders [(see attached)](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/ARL%20Stakeholder%20Map%20March%2029.pdf)
 - Created a research plan to guide our Week 3 and Week 4 research
 - Began identifying Task Force members who cannot access project Slack, [GitHub repository](https://github.com/18F/arl-oss-process), [Trello](https://trello.com/b/MU2Dlyz6/us-army-arl-path-analysis) tools
 - Refined initial problem statement

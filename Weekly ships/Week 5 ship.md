@@ -17,8 +17,8 @@ This is the end of week 5 on the Army ARL PA. We've wrapped up our interview and
 **This week we:**
 
 - Met with Tasha Solomon to discuss project focus, outcomes and measures of success
-- Updated the [process map](https://app.mural.co/t/gsa6/m/gsa6/1554322454728/27f8a1bf135b313ff65fb2da72ef9d2d0797e099) based on our interview research findings and Mid-project check-in feedback ([attached](https://github.com/18F/arl-oss-process/blob/master/Deliverables/ArmyARLOSSProcessMapWeek5Ship.pdf))
-- Updated the [stakeholder map](https://app.mural.co/t/gsa6/m/gsa6/1553741709934/ee42f91e425204a70aca0917a27cd2fff5d7d67c) based on our interview research findings ([attached](https://github.com/18F/arl-oss-process/blob/master/Deliverables/ArmyARLOSSStakeholderMapWeek5Ship.pdf))
+- Updated the [process map](https://app.mural.co/t/gsa6/m/gsa6/1554322454728/27f8a1bf135b313ff65fb2da72ef9d2d0797e099) based on our interview research findings and Mid-project check-in feedback ([attached](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/ArmyARLOSSProcessMapWeek5Ship.pdf))
+- Updated the [stakeholder map](https://app.mural.co/t/gsa6/m/gsa6/1553741709934/ee42f91e425204a70aca0917a27cd2fff5d7d67c) based on our interview research findings ([attached](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/ArmyARLOSSStakeholderMapWeek5Ship.pdf))
 - Brought 18F strategist Shawnique Muller into the project team to assist with desk research
 - Met with code.gov team to share project focus with them and learn from their experiences
 - Conducted desk research (see below for details)
@@ -55,7 +55,7 @@ This is the end of week 5 on the Army ARL PA. We've wrapped up our interview and
 
 - What we’ve learned from our interview data
 
-  - Review directly in [Mural](https://app.mural.co/t/gsa6/m/gsa6/1555694778109/49713594a776604576a100ffdd326d9b403e30d8) or from [the attached pdf](https://github.com/18F/arl-oss-process/blob/master/Deliverables/ArmyARLInterviewFindingsWeek5Ship.png)
+  - Review directly in [Mural](https://app.mural.co/t/gsa6/m/gsa6/1555694778109/49713594a776604576a100ffdd326d9b403e30d8) or from [the attached pdf](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/ArmyARLInterviewFindingsWeek5Ship.png)
 
 - Where we’re at in the project timeline: 
 

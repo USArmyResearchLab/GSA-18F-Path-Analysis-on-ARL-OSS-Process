@@ -7,15 +7,15 @@ This week is the midpoint of 8-weeks at ARL, marked by our mid-project check-in 
 **Our asks of you:**
 
 - We’ve learned that meeting change notifications don’t work between gsa.gov and mail.mil calendar accounts. From this point forward, when a meeting needs to be rescheduled, we’ll cancel the invitation and re-send. We will send fresh invites for remaining Weekly Reviews and Final Presentation. **Can you please delete any existing invites on your calendar?**
-- We’ve updated the [process map](https://app.mural.co/t/gsa6/m/gsa6/1554322454728/27f8a1bf135b313ff65fb2da72ef9d2d0797e099). Comments can be added to the map by (1) clicking the link above and right clicking anywhere on the map, or (2) reviewing the [attached pdf](https://github.com/18F/arl-oss-process/blob/master/Deliverables/Process%20Map%20April%2012.pdf) and emailing us back. **What do you agree/disagree/have questions with?**
+- We’ve updated the [process map](https://app.mural.co/t/gsa6/m/gsa6/1554322454728/27f8a1bf135b313ff65fb2da72ef9d2d0797e099). Comments can be added to the map by (1) clicking the link above and right clicking anywhere on the map, or (2) reviewing the [attached pdf](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/Process%20Map%20April%2012.pdf) and emailing us back. **What do you agree/disagree/have questions with?**
 
 **This week we:**
 
 - Developed initial findings from our desk and interview research so far
-- Updated the [process map](https://app.mural.co/t/gsa6/m/gsa6/1554322454728/27f8a1bf135b313ff65fb2da72ef9d2d0797e099) based on our initial findings ([attached](https://github.com/18F/arl-oss-process/blob/master/Deliverables/Process%20Map%20April%2012.pdf))
-- Updated the [stakeholder map](https://app.mural.co/t/gsa6/m/gsa6/1553741709934/ee42f91e425204a70aca0917a27cd2fff5d7d67c) based on our initial findings ([attached](https://github.com/18F/arl-oss-process/blob/master/Deliverables/ARL%20Stakeholder%20Map%20April%2012.pdf))
-- Prepared Mid-project Check-in presentation ([attached](https://github.com/18F/arl-oss-process/blob/master/Deliverables/Mid-project%20check-in%20presentation.pdf))
-- Generated [Key Questions](https://app.mural.co/t/gsa6/m/gsa6/1553789837161/0b3cbe5300499ea4e461e7facb1081314274a366) based on our initial findings ([attached](https://github.com/18F/arl-oss-process/blob/master/Deliverables/Key%20Questions%20April%2012.pdf))
+- Updated the [process map](https://app.mural.co/t/gsa6/m/gsa6/1554322454728/27f8a1bf135b313ff65fb2da72ef9d2d0797e099) based on our initial findings ([attached](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/Process%20Map%20April%2012.pdf))
+- Updated the [stakeholder map](https://app.mural.co/t/gsa6/m/gsa6/1553741709934/ee42f91e425204a70aca0917a27cd2fff5d7d67c) based on our initial findings ([attached](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/ARL%20Stakeholder%20Map%20April%2012.pdf))
+- Prepared Mid-project Check-in presentation ([attached](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/Mid-project%20check-in%20presentation.pdf))
+- Generated [Key Questions](https://app.mural.co/t/gsa6/m/gsa6/1553789837161/0b3cbe5300499ea4e461e7facb1081314274a366) based on our initial findings ([attached](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/Key%20Questions%20April%2012.pdf))
 - Traveled onsite to ARL in Adelphi, MD
 - Learned about the capabilities of ServiceNow, an automation framework
 - Scheduled additional round 2 interviews

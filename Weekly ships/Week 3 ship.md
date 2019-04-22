@@ -41,7 +41,7 @@ This week was all about research. Guided by the research plan we developed last 
 
 **What we’re thinking about:**
 
-- **Data:** We’ve pulled out data points from 2 interviews collected so far, and will have data from 5 interviews to share in next week’s onsite visit. We’re pulling data into two directions: (1) general data points on ARL OSS needs & the current process, and (2) to create process map based on individuals’ perceptions ([see attached](/Deliverables/Process%20Map%20Apr%205.pdf)). 
+- **Data:** We’ve pulled out data points from 2 interviews collected so far, and will have data from 5 interviews to share in next week’s onsite visit. We’re pulling data into two directions: (1) general data points on ARL OSS needs & the current process, and (2) to create process map based on individuals’ perceptions ([see attached](https://github.com/18F/arl-oss-process/blob/47be79801ede860444ee42f218fe675989713abf/Deliverables/Process%20Map%20Apr%205.pdf)).
 - **Interview Procedures:** To ensure we are capturing participant ideas accurately and preserving participant confidentiality
   - Designate interview lead and note-taker
   - Note-taker corrects typos/cleans up notes
