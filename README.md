@@ -1,4 +1,4 @@
-<b>U.S. Army Research Lab - 18F Path Analysis<b>
+## U.S. Army Research Lab - 18F Path Analysis
 
 Introduction:
 
