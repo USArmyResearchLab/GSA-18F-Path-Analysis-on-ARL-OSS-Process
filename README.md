@@ -2,7 +2,7 @@
 
 Introduction:
 
-18F is partnered with the Army Research Lab (ARL) in an 8 week path analysis (PA) focused on understanding ARL's Open Source Software needs and current process. Initially, the problem in focus was that is ARL needs to be able to efficiently and transparently share open source software within legal requirements, but the current OSS process feels top-heavy to researchers. This repo stores all project artifacts related to this PA. 
+18F is partnered with the Army Research Lab (ARL) in an 8 week path analysis (PA) focused on understanding ARL's Open Source Software needs and current process. Initially, the problem we focused on was that ARL needs to be able to efficiently and transparently share open source software within legal requirements, but the current OSS process feels top-heavy to researchers. This repo stores all project artifacts related to this PA. 
 
 A cross-functional team from ARL and 18F set their vision on the following PA outcomes:
 
