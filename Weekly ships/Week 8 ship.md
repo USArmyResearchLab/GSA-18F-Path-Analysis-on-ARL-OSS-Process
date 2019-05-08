@@ -13,7 +13,7 @@ We met this morning onsite at ARL to present our finalized recommendations and d
 - Prepared and presented our final presentation this morning at ARL
 - Reached out to various stakeholder groups outside of ARL to check-in on how our recommendations were received across other parts of the government
 - Posted and organized all project content on GitHub
-- Packaged all project content for you (see attached)
+- Packaged all project content for you (see [attached](https://github.com/18F/arl-oss-process/tree/f076de33a7a9b55714d7955d09f9e13945e91edc/Deliverables))
 
 **Next steps:**
 
