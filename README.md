@@ -1,7 +1,5 @@
 ## U.S. Army Research Lab - 18F Path Analysis
 
-Introduction:
-
 18F is partnered with the Army Research Lab (ARL) in an 8 week path analysis (PA) focused on understanding ARL's Open Source Software needs and current process. Initially, the problem we focused on was that ARL needs to be able to efficiently and transparently share open source software within legal requirements, but the current OSS process feels top-heavy to researchers. This repo stores all project artifacts related to this PA. 
 
 A cross-functional team from ARL and 18F set their vision on the following PA outcomes:
@@ -50,6 +48,19 @@ The team determined that in order for this PA to be successful, it would need to
 - Chat - Slack
 - Project documentation - GitHub
 
-## Contributing 
+### Laws and regulations
+
+Through the course of this project, we reviewed the following: 
+
+- [Federal Source Code policy (OMB M-16-21)](https://sourcecode.cio.gov/)
+- [17 U.S.C. § 105](https://www.law.cornell.edu/uscode/text/17/105) and [15 U.S.C. § 3710](https://www.law.cornell.edu/uscode/text/15/3710)
+- [DFAR Subpart 227.72 - Rights in Computer Software and Computer Software Documentation](https://www.acq.osd.mil/dpap/dars/dfars/html/current/227_72.htm)
+- [DoD Memorandum: Clarifying Guidance Regarding Open Source Software](https://dodcio.defense.gov/Portals/0/Documents/FOSS/2009OSS.pdf)
+- [AR 5-11 Management of Army Modeling and Simulation](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r5_11.pdf)
+- [AR 25-2 Information Assurance](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN16415_r25_2_20071024_FINAL.pdf)
+- [AR 27-60 Intellectual Property](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r27_60.pdf)
+- [AR 380-10 Foreign Disclosure and Contacts with Foreign Representatives](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r380_10.pdf)
+
+### Contributing 
 
 This repository contains our notes, files, and artifacts, and is public by design — feel free to chime in or submit a pull request! See our [contributing guide](/CONTRIBUTING.md).
